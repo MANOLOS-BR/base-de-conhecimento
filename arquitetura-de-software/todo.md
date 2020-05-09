@@ -4,6 +4,7 @@ https://medium.com/@marcelomg21/event-driven-architecture-eda-em-uma-arquitetura
 
 **Domain-specific software architecture (DSSA):**
 
+https://github.com/MANOLOS-BR/base-de-conhecimento/blob/master/arquitetura-de-software/pdfs/Domain-Specific-DSSA.pdf
 
 **Livro Online de Arquitetura**
 
