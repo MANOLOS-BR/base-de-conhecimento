@@ -5,6 +5,8 @@
 2. RASA X — http://rasa.com/docs/rasa-x/
 3. RASA User guide — https://rasa.com/docs/rasa/
 
+https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
+
 
 **A Beginner’s Guide to Rasa NLU for Intent Classification and Named-entity Recognition**
 
