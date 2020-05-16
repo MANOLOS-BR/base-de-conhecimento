@@ -4,7 +4,7 @@
 1. RASA Docs — http://rasa.com/docs/
 2. RASA X — http://rasa.com/docs/rasa-x/
 3. RASA User guide — https://rasa.com/docs/rasa/
-
+https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
 
 **bot de exemplo**
 
@@ -16,8 +16,7 @@ https://github.com/diogolima25/LIA-bot
 https://medium.com/rapaduratech/criando-um-chatbot-com-o-rasa-efecb0195f48
 https://in.springboard.com/blog/chatbot-using-rasa/
 https://github.com/RasaHQ/workshop-rasax-short/blob/master/exercise.md
-
-https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
+https://saurabhprakash.me/notes/rasa/
 
 
 **A Beginner’s Guide to Rasa NLU for Intent Classification and Named-entity Recognition**
