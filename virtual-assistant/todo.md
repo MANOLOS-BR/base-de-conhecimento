@@ -5,6 +5,16 @@
 2. RASA X — http://rasa.com/docs/rasa-x/
 3. RASA User guide — https://rasa.com/docs/rasa/
 
+
+**bot de exemplo**
+https://ri.ufs.br/bitstream/riufs/12493/2/Diogo_Lima_Silva.pdf
+https://github.com/diogolima25/LIA-bot
+
+**Criando um chatbot com o Rasa**
+https://medium.com/rapaduratech/criando-um-chatbot-com-o-rasa-efecb0195f48
+https://in.springboard.com/blog/chatbot-using-rasa/
+https://github.com/RasaHQ/workshop-rasax-short/blob/master/exercise.md
+
 https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
 
 
