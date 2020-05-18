@@ -20,7 +20,7 @@ O Docker Engine é suportado nas arquiteturas x86_64 (ou amd64), armhf, arm64, s
 
 Antes de mais nada, remova possíveis versões antigas do Docker:
 
-```bash
+```console
 sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
