@@ -1,4 +1,4 @@
-Todos os comandos listados devem ser executados no seu terminal (ctrl + t).
+Todos os comandos listados devem ser executados no seu terminal `(ctrl + t)`.
 
 Antes de mais nada, remova possíveis versões antigas do Docker:
 
