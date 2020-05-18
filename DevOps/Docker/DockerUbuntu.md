@@ -1,4 +1,19 @@
-Todos os comandos listados devem ser executados no seu terminal `(ctrl + t)`.
+# Instalação Docker no Ubuntu 64 bits. 
+
+Para iniciar o Docker Engine no Ubuntu, verifique se você atende aos pré-requisitos e instale o Docker.
+
+## Pré-requisitos
+### Requisitos do Sistema Operacional
+
+Para instalar o Docker Engine, você precisa da versão de 64 bits de uma destas versões do Ubuntu:
+
+- Ubuntu Eoan 19.10
+- Ubuntu Bionic 18.04 (LTS)
+- Ubuntu Xenial 16.04 (LTS)
+
+O Docker Engine é suportado nas arquiteturas x86_64 (ou amd64), armhf, arm64, s390x (IBM Z) e ppc64le (IBM Power).
+
+> Todos os comandos listados devem ser executados no seu terminal `(ctrl + t)`.
 
 Antes de mais nada, remova possíveis versões antigas do Docker:
 
@@ -50,3 +65,5 @@ E para executar o Docker sem precisar de sudo, adicione o seu usuário ao grupo 
 ```
 sudo usermod -aG docker $(whoami)
 ```
+
+Para mais informações consultar [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
