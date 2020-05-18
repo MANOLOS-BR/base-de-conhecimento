@@ -15,10 +15,13 @@ O Docker Engine é suportado nas arquiteturas x86_64 (ou amd64), armhf, arm64, s
 
 > Todos os comandos listados devem ser executados no seu terminal `(ctrl + t)`.
 
+
+### Desinstalar versões antigas
+
 Antes de mais nada, remova possíveis versões antigas do Docker:
 
-```
-sudo apt-get remove docker docker-engine docker.io
+```bash
+sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
 Depois, atualize o banco de dados de pacotes:
