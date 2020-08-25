@@ -59,10 +59,14 @@
 
 ```objective-c
 - (IBAction)button:(id)sender{
-    
     self.label.text = @"Hello";
-  
 }
 
+```
+
+```objective-c
+- (void)trigger {
+    self.label.text = @"I got triggered";
+}
 ```
 
