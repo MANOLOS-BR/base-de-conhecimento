@@ -1,5 +1,33 @@
 ## **Variables and Constants**
 
+To create a public attribute, we must create it in the .h class:
+```objective-c
+@interface ViewCOntroller : UIViewControoler{
+  //Public attribute for access
+  NSString * word;
+}
+```
+
+```objective-c
+@implementation ViewCOntroller
+- (void)viewDidLoad{
+    [super viewDidLoad];
+
+    //Public attribute of the ViewController class, created in the class .h
+    word = @"Hello";
+
+    //Internal attributes of the changeable .m classes
+    NSString *word2;
+    word2 = @"Hello to word 2";
+    word2 = @"Goodbye init word 2";
+
+    //Creating constant within the .m class
+    NSString * const word3 = @"Xurupita";
+    word3 = @"Trocando xurupita"; //It will not work
+}
+```
+
+
 ## **Strings**
 
 ## **Integers**
@@ -20,7 +48,7 @@
 ```objective-c
   int cont = 0;
   while(condition){}
-  ```
+```
   Exemple:
   
 ```objective-c
@@ -29,7 +57,6 @@
     number += 1;
     NSLog(@"%i", number);
   }
-
 ```
 
 ## **Switch Statements**
