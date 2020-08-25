@@ -17,8 +17,20 @@
 ## **For Loops**
 
 ## **While Loops**
+```objective-c
+  int cont = 0;
+  while(condition){}
+  ```
+  Exemple:
+  
+  ```objective-c
+  int cont = 0;
+  while(condition){
+    number += 1;
+    NSLog(@"%i", number);
+  }
 
-## **While Loops**
+```
 
 ## **Switch Statements**
 
