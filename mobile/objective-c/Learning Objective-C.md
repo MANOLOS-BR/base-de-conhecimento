@@ -70,3 +70,12 @@
 }
 ```
 
+Call the funcion in class
+```objective-c
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    
+    [self trigger];
+}
+```
+
