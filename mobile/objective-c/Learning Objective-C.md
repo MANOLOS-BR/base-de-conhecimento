@@ -57,12 +57,6 @@
 
 ## **Functions**
 
-```objective-c
-- (IBAction)button:(id)sender{
-    self.label.text = @"Hello";
-}
-
-```
 
 Create the function inner the class
 ```objective-c
@@ -71,12 +65,9 @@ Create the function inner the class
 }
 ```
 
-Call the function within the class
+Call the function within the other function
 ```objective-c
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    
+- (IBAction)button:(id)sender{
     [self trigger];
 }
 ```
-
