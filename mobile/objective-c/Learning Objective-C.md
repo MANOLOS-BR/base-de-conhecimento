@@ -1,25 +1,25 @@
-# **Variables and Constants**
+## **Variables and Constants**
 
-Strings
+## **Strings**
 
-Integers
+## **Integers**
 
-Floats & Doubles - Decial 32 e 64 biy
+## **Floats & Doubles - Decial 32 e 64 biy**
 
-Booleans
+## **Booleans**
 
-Arrays
+## **Arrays**
 
-If Statements
+## **If Statements**
 
-AND and OR Statements
+## **AND and OR Statements**
 
-For Loops
+## **For Loops**
 
-While Loops
+## **While Loops**
 
-While Loops
+## **While Loops**
 
-Switch Statements
+## **Switch Statements**
 
-Functions
+## **Functions**
