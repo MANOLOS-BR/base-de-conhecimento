@@ -50,7 +50,8 @@
       break;
       
     default:
-    break;
+      NSLog(@"Not Availble");
+      break;
   }
   ```
 
