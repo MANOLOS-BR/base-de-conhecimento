@@ -23,7 +23,7 @@
   ```
   Exemple:
   
-  ```objective-c
+```objective-c
   int cont = 0;
   while(cont < 10){
     number += 1;
@@ -56,3 +56,13 @@
   ```
 
 ## **Functions**
+
+```objective-c
+- (IBAction)button:(id)sender{
+    
+    self.label.text = @"Hello";
+  
+}
+
+```
+
