@@ -25,7 +25,7 @@
   
   ```objective-c
   int cont = 0;
-  while(condition){
+  while(cont < 10){
     number += 1;
     NSLog(@"%i", number);
   }
