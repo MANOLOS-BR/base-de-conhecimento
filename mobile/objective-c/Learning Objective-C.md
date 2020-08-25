@@ -34,4 +34,24 @@
 
 ## **Switch Statements**
 
+  ```objective-c
+  int number = 1;
+  switch(number){
+    case 1:
+      NSLog(@"Number 1");
+      break;
+      
+    case 2:
+      NSLog(@"Number 2");
+      break;
+      
+    case 3:
+      NSLog(@"Number 3");
+      break;
+      
+    default:
+    break;
+  }
+  ```
+
 ## **Functions**
