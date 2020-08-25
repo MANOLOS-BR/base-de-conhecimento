@@ -64,13 +64,14 @@
 
 ```
 
+Create the function inner the class
 ```objective-c
 - (void)trigger {
     self.label.text = @"I got triggered";
 }
 ```
 
-Call the funcion in class
+Call the function within the class
 ```objective-c
 - (void)viewDidLoad {
     [super viewDidLoad];
